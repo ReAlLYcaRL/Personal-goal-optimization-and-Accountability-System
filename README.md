@@ -1,7 +1,7 @@
 # Personal-goal-optimization-and-Accountability-System
 Many individuals struggle to achieve their personal, financial, and professional goals due to lack of structured tracking, progress visibility, and accountability.The application provides a structured, data-driven Digital Vision Board system that combines goal management, habit tracking, visual progress analytics, and motivational reinforcement to increase goal completion rates.
 
-1. Proposed Features
+1. Proposed Features: 
  Create Vision Categories,
  Add Goals with Details,
  Image & Media Attachments,
@@ -11,7 +11,7 @@ Many individuals struggle to achieve their personal, financial, and professional
  Motivational Quotes Generator,
  Analytics & Insights
 
-2. python skills
+2. python skills :
  Variables, loops, conditionals,
  Functions,
  Lists & dictionaries,
@@ -21,7 +21,7 @@ Many individuals struggle to achieve their personal, financial, and professional
  Date/time calculations,
  Error handling
 
-3.Tools and Libraries
+3.Tools and Libraries :
 sqlite3
 datetime
 os
